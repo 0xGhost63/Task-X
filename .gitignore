@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Text files
+*.txt
+
+# Python file
+ClassDeleter.py
